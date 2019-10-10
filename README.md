@@ -31,3 +31,8 @@ pip install matplotlib
 ```
 pip install scipy numpy
 ```
+
+* Install tabulate for printing tables
+```
+pip install tabulate
+```
