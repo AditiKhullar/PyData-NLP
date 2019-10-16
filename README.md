@@ -36,3 +36,9 @@ pip install scipy numpy
 ```
 pip install tabulate
 ```
+
+* Install Jupyter notebook 
+```
+pip install jupyter
+```
+
