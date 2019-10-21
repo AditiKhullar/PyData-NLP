@@ -1,0 +1,6 @@
+nltk
+matplotlib
+scipy
+numpy
+tabulate
+jupyter

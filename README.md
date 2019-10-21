@@ -7,38 +7,16 @@ In this 90-minute intermediate-level tutorial at PyData NYC we will introduce th
 ### Setup Instructions
 #### Create a conda environment
 ```
-conda create -n yourenvname
+conda create -n PyDataLM
 ```
 
 #### Activate the conda envitonement
 ```
-source activate yourenvname
+source activate PyDataLM
 ```
 
 #### Install the required libraries
-
-* Install NLTK
 ```
-pip install --user -U nltk
-```
-
-* Install Matplotlib - for plotting
-```
-pip install matplotlib
-```
-
-* Install Numpy and Scipy
-```
-pip install scipy numpy
-```
-
-* Install tabulate for printing tables
-```
-pip install tabulate
-```
-
-* Install Jupyter notebook 
-```
-pip install jupyter
+conda install --file requirements.txt
 ```
 
